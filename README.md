@@ -53,7 +53,7 @@ To analyze Coca-Cola sales data and create an Excel dashboard that provides clea
 - Add Slicers and build connections
 - Acts as the analytical layer of the project
 
-<a href = B.) Dashboard Sheet :>
+<a> B.) Dashboard Sheet :
 
 - Interactive dashboard built using pivot charts
 - Displays key metrics and insights
