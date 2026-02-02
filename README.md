@@ -28,6 +28,10 @@ To analyze Coca-Cola sales data and create an Excel dashboard that provides clea
 - Filters for region, product and time
 - Clear visual representation of KPIs
 
+## Dashboard :-
+
+- <a herf = "https://github.com/RanjanMaityAI/Coca-Cola-Sales-Performance-Analysis-MIS-Dashboard-Excel-Project-/blob/main/Coca-Cola%20Dashboard.png">View Dashboard</a> 
+
 ## Key Insights :-
 - Certain regions contribute the highest share of total sales
 - A few products generate maximum revenue
