@@ -44,6 +44,21 @@ To analyze Coca-Cola sales data and create an Excel dashboard that provides clea
 - Reduces manual reporting effort
 - Supports strategic planning
 
+## Process :-
+
+<a> A.) Pivot_Analysis Sheet :
+
+- Pivot tables created from the cleaned data
+- Used to calculate KPIs and analyze trends
+- Add Slicers and build connections
+- Acts as the analytical layer of the project
+
+<a> B.) Dashboard Sheet :
+
+- Interactive dashboard built using pivot charts
+- Displays key metrics and insights
+- Designed for management-level reporting
+
 ## Conclusion :-
 
 This project demonstrates an end-to-end Excel-based data analysis workflow, starting from raw data and moving through data cleaning, pivot table analysis and dashboard creation. 
